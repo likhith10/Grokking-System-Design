@@ -15,7 +15,7 @@ Help scale horizontally across an ever-increasing number of servers.
 - Round robin
 - Weighted round robin
 - IP hash
-Link: https://kemptechnologies.com/load-balancer/load-balancing-algorithms-techniques/
+- Load balancing Techniques Link: https://kemptechnologies.com/load-balancer/load-balancing-algorithms-techniques/
 ## Implementation
 - Smart clients
 - Hardware load balancers
