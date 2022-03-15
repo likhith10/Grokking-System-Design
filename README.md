@@ -37,7 +37,7 @@ Source: [educative](https://www.educative.io)
 - [Client Server Communication](basics/client-server-communication.md)
 
 ## System Designs
-- [Short URL Service](designs/short-url.md)
+- [Short URL Service](designs/short-url.md) - *Done* - (Codekarle,TECH Dummies)
 - [Pastebin](designs/pastebin.md)
 - [Instagram](designs/instagram.md)
 - [Dropbox](designs/dropbox.md)
@@ -49,6 +49,7 @@ Source: [educative](https://www.educative.io)
 - [Yelp](designs/yelp.md)
 - [Uber Backend](designs/uber-backend.md)
 - [Ticketmaster](designs/ticketmaster.md)
+- https://leetcode.com/discuss/interview-question/1729681/Compilation-or-Microsoft-Design-Questions-or-SDE-ISDE-II
 
 
 ## System Design Interviews: A step by step guide
