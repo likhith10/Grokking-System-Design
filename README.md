@@ -48,7 +48,7 @@ Source: [educative](https://www.educative.io)
 - [Facebook Newsfeed](designs/facebook-newsfeed.md)
 - [Yelp](designs/yelp.md)
 - [Uber Backend](designs/uber-backend.md)
-- [Ticketmaster](designs/ticketmaster.md)
+- [Ticketmaster](designs/ticketmaster.md) (TECH Dummies)
 - https://leetcode.com/discuss/interview-question/1729681/Compilation-or-Microsoft-Design-Questions-or-SDE-ISDE-II
 
 
