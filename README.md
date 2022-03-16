@@ -55,6 +55,10 @@ Source: [educative](https://www.educative.io)
 ## Low Level System Designs
 https://github.com/likhith10/grokking-the-object-oriented-design-interview#object-oriented-design-case-studies
 
+##Github CodeKarle
+https://github.com/codekarle/system-design
+
+
 
 ## System Design Interviews: A step by step guide
 **************************************************************************************************************************
