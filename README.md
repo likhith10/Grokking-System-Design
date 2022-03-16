@@ -52,6 +52,9 @@ Source: [educative](https://www.educative.io)
 - Hotel booking/bookings.com/ AirBNB (Code Karle)
 - https://leetcode.com/discuss/interview-question/1729681/Compilation-or-Microsoft-Design-Questions-or-SDE-ISDE-II
 
+## Low Level System Designs
+https://github.com/likhith10/grokking-the-object-oriented-design-interview#object-oriented-design-case-studies
+
 
 ## System Design Interviews: A step by step guide
 **************************************************************************************************************************
