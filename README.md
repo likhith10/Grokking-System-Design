@@ -38,7 +38,7 @@ Source: [educative](https://www.educative.io)
 
 ## System Designs
 - [Short URL Service](designs/short-url.md) - *Done* - (Codekarle,TECH Dummies)
-- [Pastebin](designs/pastebin.md)
+- [Pastebin](designs/pastebin.md) - *Done* - (Tech Dummies)
 - [Instagram](designs/instagram.md)
 - [Dropbox](designs/dropbox.md)
 - [Twitter](designs/twitter.md)
