@@ -43,9 +43,10 @@ Source: [educative](https://www.educative.io)
 - [Dropbox](designs/dropbox.md)
 - [Twitter](designs/twitter.md) - *Done* - (Codekarle)
 - [Youtube](designs/youtube.md)
-- [Twitter Search](designs/twitter-search.md)
+- [Twitter Search](designs/twitter-search.md) - *Partially checked* in Codekarle, TechDummies Twitter Design 
 - [Web Crawler](designs/web-crawler.md)
 - [Facebook Newsfeed](designs/facebook-newsfeed.md) - *Done* - (Codekarle)
+- Facebook/Whatsapp Messenger - *DONE* - Code Karle
 - [Yelp](designs/yelp.md)
 - [Uber Backend](designs/uber-backend.md)
 - [Ticketmaster](designs/ticketmaster.md) (TECH Dummies)  Fandango / BookMyShow / Atom
