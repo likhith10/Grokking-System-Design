@@ -40,15 +40,15 @@ Source: [educative](https://www.educative.io)
 - [Short URL Service](designs/short-url.md) - *Done* - (Codekarle,TECH Dummies)
 - [Pastebin](designs/pastebin.md) - *Done* - (Tech Dummies)
 - [Instagram](designs/instagram.md) - *Done* - (Codekarle)
-- [Dropbox](designs/dropbox.md)
+- [Dropbox](designs/dropbox.md) - *Done* - (Tech Dummies)
 - [Twitter](designs/twitter.md) - *Done* - (Codekarle)
-- [Youtube](designs/youtube.md)
+- [Youtube](designs/youtube.md)- *Done* - (Codekarle)
 - [Twitter Search](designs/twitter-search.md) - *Partially checked* in Codekarle, TechDummies Twitter Design 
 - [Web Crawler](designs/web-crawler.md)
 - [Facebook Newsfeed](designs/facebook-newsfeed.md) - *Done* - (Codekarle)
 - Facebook/Whatsapp Messenger - *DONE* - Code Karle
 - [Yelp](designs/yelp.md)
-- [Uber Backend](designs/uber-backend.md)
+- [Uber Backend](designs/uber-backend.md) - *Done* - (Codekarle)
 - [Ticketmaster](designs/ticketmaster.md) (TECH Dummies)  Fandango / BookMyShow / Atom
 - Hotel booking/bookings.com/ AirBNB (Code Karle)
 - https://leetcode.com/discuss/interview-question/1729681/Compilation-or-Microsoft-Design-Questions-or-SDE-ISDE-II
